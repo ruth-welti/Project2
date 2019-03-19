@@ -1,5 +1,5 @@
 
-**Project Proposal:** A start to computational annotation of a lipid mass map<br/>
+# **Project Proposal:** A start to computational annotation of a lipid mass map<br/>
 
 
 **Background and Rationale:** Enumeration of plant lipid molecular species and comparison of lipids across the plant kingdom would facilitate identification of the function of genes involved in lipid metabolism and lipid signaling. Recent innovations in the speed of data acquisition by mass spectrometry provide an opportunity to assemble untargeted mass spectral data for systematic, comprehensive lipidome annotation and lipid discovery. The lipid data are intensities, each associated with a pair of mass/charge (m/z) values, one for the intact lipid and one for a lipid fragment ion. Some of the fragments represent lipid building blocks, such as fatty acids. Since many lipids, for example, glycerolipids, are composed of a finite number of building blocks, arranged in different combinations, a computational approach considering all or a subset of possible combinations of the lipid components can be used to annotate untargeted lipid mass spectrometry data.  
